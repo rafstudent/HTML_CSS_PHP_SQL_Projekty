@@ -1,0 +1,124 @@
+
+.logo {
+position: absolute;
+margin-left: 34%;
+width: 28%;
+height: 15%;
+background-color: blue;
+}
+
+.menu { 
+position: absolute;
+margin-top: 1%;
+width: 12%;
+height: 95%;
+color: yellow;
+background-color: grey;
+} 
+
+.logowanie {
+position: absolute;
+margin-left: 92%;
+width: 7%;
+height: 3%;
+background-color: grey;
+}
+ 
+.pole {
+position: absolute;
+margin-top: 38%;
+margin-left: 33%;	
+width: 30%;
+height: 15%;	
+background-color: red;
+}
+
+.sklep {
+position: absolute;
+width: 100%;
+height: 100%;		
+}
+
+.opis {
+position: absolute;
+margin-top: 12%;
+margin-left: 32%;
+width: 37%;
+height: 35%;	
+}
+
+.dodawanie {
+position: absolute;
+margin-top: 13%;
+margin-left: 38%;
+width: 20%;
+height: 35%;		
+}
+
+.polecane {
+position: absolute;
+margin-top: 11%;
+margin-left: 26%;
+width: 15%;
+height: 56%;
+background-color: blue;			
+}
+
+.polecane1 {
+position: absolute;
+margin-top: 11%;
+margin-left: 42%;
+width: 15%;
+height: 56%;
+background-color: blue;			
+}
+
+.polecane2 {
+position: absolute;
+margin-top: 11%;
+margin-left: 58%;
+width: 15%;
+height: 56%;
+background-color: blue;			
+}
+
+.polecam {
+position: absolute;
+width: 100%;
+height: 100%;	
+}	
+
+.tekst {
+position: absolute;
+margin-top: 8%;
+margin-left: 38%;
+}
+
+.test {
+position: absolute;
+margin-top: 8%;
+margin-left: 39%;	
+}
+
+.test1 {
+position: absolute;
+margin-top: 12%;
+margin-left: 32%;
+width: 37%;
+height: 50%;
+}
+
+.tworcy {
+position: absolute;
+margin-left: 25%;
+width: 50%;
+height: 50%;	
+}
+
+.dodawanie1{
+position: absolute;
+margin-top: 13%;
+margin-left: 38%;
+width: 25%;
+height: 35%;
+}
