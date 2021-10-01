@@ -1,0 +1,297 @@
+table{
+	background-color: black;
+}
+
+.pole {
+	width: 50%;
+	height: 50%;
+	margin-left: 25%;
+	margin-top: 15%;
+	position: absolute;
+	color: orange;
+}
+
+.link {
+	color: white;
+	text-decoration: none;
+}
+
+.pole_obrazek {
+	width: 70%;
+	height: 70%;
+	margin-left: 15%;
+	margin-top: 10%;
+	position: absolute;
+	color: orange;
+}
+
+
+.pole_projekt {
+	width: 50%;
+	height: 50%;
+	margin-left: 34%;
+	margin-top: 15%;
+	position: absolute;
+	color: orange;
+}
+
+.pole_projekt1 {
+	width: 50%;
+	height: 50%;
+	margin-left: 36%;
+	margin-top: 15%;
+	position: absolute;
+	color: orange;
+}
+
+.pole_uzytkownik {
+	width: 50%;
+	height: 50%;
+	margin-left: 40%;
+	margin-top: 18%;
+	position: absolute;
+	color: orange;
+}
+
+.logo {
+	width: 50%;
+	height: 20%;
+	margin-left: 25%;
+	position: absolute;
+}
+
+.obrazek {
+	width: 100%;
+	height: 100%;
+}
+
+.zdjecie {
+	width: 100%;
+	height: 100%;
+}
+
+.logowanie {
+	position: absolute;
+	margin-left: 35%;
+	margin-top: 2%;
+}
+
+.menu {
+	width: 15%;
+	height: 98%;
+	position: absolute;
+}
+
+.powrot {
+	width: 4%;
+	height: 5%;
+	color: orange;
+	position: absolute;
+}
+
+.powrot:hover {
+	width: 4%;
+	height: 5%;
+	color: blue;
+	position: absolute;
+}
+
+.pytanie {
+	width: 50%;
+	height: 5%;
+	margin-top: 16%;
+	margin-left: 27%;
+	color: orange;
+	position: absolute;
+}
+
+.nowy {
+	width: 10%;
+	height: 5%;
+	margin-top: 2%;
+	color: orange;
+	position: absolute;
+}
+
+.nowy:hover {
+	width: 10%;
+	height: 5%;
+	color: blue;
+	position: absolute;
+}
+
+.edycja {
+	color: red;
+}
+
+.dodaj {
+	margin-top: 6%;
+	width: 8%;
+	height: 5%;
+	color: orange;
+	position: absolute;
+}
+
+.edytuj {
+	margin-top: 14%;
+	width: 15%;
+	height: 5%;
+	color: orange;
+	position: absolute;
+}
+
+.edytuj_1 {
+	margin-top: 16%;
+	width: 15%;
+	height: 5%;
+	color: orange;
+	position: absolute;
+}
+
+.edytuj_2 {
+	margin-top: 18%;
+	width: 15%;
+	height: 5%;
+	color: orange;
+	position: absolute;
+}
+
+.dodaj:hover {
+	width: 8%;
+	height: 5%;
+	color: blue;
+	position: absolute;
+}
+
+.edytuj:hover {
+	width: 15%;
+	height: 5%;
+	color: blue;
+	position: absolute;
+}
+
+.edytuj_1:hover {
+	width: 15%;
+	height: 5%;
+	color: blue;
+	position: absolute;
+}
+
+.edytuj_2:hover {
+	width: 15%;
+	height: 5%;
+	color: blue;
+	position: absolute;
+}
+
+.tabela {
+	margin-top: 3%;
+	width: 8%;
+	height: 5%;
+	color: orange;
+	position: absolute;
+}
+
+.tabela:hover {
+	width: 8%;
+	height: 5%;
+	color: blue;
+	position: absolute;
+}
+
+.pole1 {
+	width: 100%;
+	height: 5%;
+	margin-top: 70%;
+	color: orange;
+	position: absolute;
+}
+
+.pole1:hover {
+	color: blue;
+}
+
+.pole2 {
+	width: 100%;
+	height: 5%;
+	margin-top: 90%;
+	color: orange;
+	position: absolute;
+}
+
+.pole2:hover {
+	color: blue;
+}
+
+
+.pole3 {
+	width: 100%;
+	height: 5%;
+	margin-top: 110%;
+	color: orange;
+	position: absolute;
+}
+
+.pole3:hover {
+	color: blue;
+}
+
+.pole4 {
+	width: 100%;
+	height: 5%;
+	margin-top: 130%;
+	color: orange;
+	position: absolute;
+}
+
+.pole4:hover {
+	color: blue;
+}	
+
+.pole5 {
+	width: 2%;
+	height: 5%;
+	margin-top: 22%;
+	margin-left: 42%;
+	color: orange;
+	position: absolute;
+}
+
+.pole5:hover {
+	color: blue;
+}	
+
+.pole6 {
+	width: 2%;
+	height: 5%;
+	margin-top: 22%;
+	margin-left: 48%;
+	color: orange;
+	position: absolute;
+}
+
+.pole6:hover {
+	color: blue;
+}	
+
+.pole7 {
+	width: 50%;
+	height: 50%;
+	margin-top: 24%;
+	margin-left: 5%;
+	color: orange;
+	position: absolute;
+}
+
+.pole8 {
+	width: 8%;
+	height: 1%;
+	margin-top: 1%;
+	margin-left: 89%;
+	color: orange;
+	position: absolute;
+}
+
+.pole8:hover {
+	color: blue;
+}
